@@ -1,0 +1,13 @@
+body {
+  margin: 50px;
+  padding: 50px;
+  background-color: #baedfb;
+}
+
+h1 {
+  padding-bottom: 50px;
+}
+
+.col-sm {
+  padding: 20px 50px 50px 20px;
+}
